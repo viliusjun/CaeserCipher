@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CaeserCipher", "CaeserCipher\CaeserCipher.csproj", "{4A2C93D5-33B8-4D6E-8861-45064F4F5FDF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Tests", "Tests\Tests.csproj", "{87AC5BB7-48E8-45DC-B767-B1158E96C65F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4A2C93D5-33B8-4D6E-8861-45064F4F5FDF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4A2C93D5-33B8-4D6E-8861-45064F4F5FDF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4A2C93D5-33B8-4D6E-8861-45064F4F5FDF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4A2C93D5-33B8-4D6E-8861-45064F4F5FDF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{87AC5BB7-48E8-45DC-B767-B1158E96C65F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87AC5BB7-48E8-45DC-B767-B1158E96C65F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87AC5BB7-48E8-45DC-B767-B1158E96C65F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87AC5BB7-48E8-45DC-B767-B1158E96C65F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

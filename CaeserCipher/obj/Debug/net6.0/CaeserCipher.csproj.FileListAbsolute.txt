@@ -1,0 +1,15 @@
+C:\Users\viliu\RiderProjects\CaeserCipher\CaeserCipher\obj\Debug\net6.0\CaeserCipher.csproj.AssemblyReference.cache
+C:\Users\viliu\RiderProjects\CaeserCipher\CaeserCipher\obj\Debug\net6.0\CaeserCipher.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\viliu\RiderProjects\CaeserCipher\CaeserCipher\obj\Debug\net6.0\CaeserCipher.AssemblyInfoInputs.cache
+C:\Users\viliu\RiderProjects\CaeserCipher\CaeserCipher\obj\Debug\net6.0\CaeserCipher.AssemblyInfo.cs
+C:\Users\viliu\RiderProjects\CaeserCipher\CaeserCipher\obj\Debug\net6.0\CaeserCipher.csproj.CoreCompileInputs.cache
+C:\Users\viliu\RiderProjects\CaeserCipher\CaeserCipher\bin\Debug\net6.0\CaeserCipher.exe
+C:\Users\viliu\RiderProjects\CaeserCipher\CaeserCipher\bin\Debug\net6.0\CaeserCipher.deps.json
+C:\Users\viliu\RiderProjects\CaeserCipher\CaeserCipher\bin\Debug\net6.0\CaeserCipher.runtimeconfig.json
+C:\Users\viliu\RiderProjects\CaeserCipher\CaeserCipher\bin\Debug\net6.0\CaeserCipher.dll
+C:\Users\viliu\RiderProjects\CaeserCipher\CaeserCipher\bin\Debug\net6.0\ref\CaeserCipher.dll
+C:\Users\viliu\RiderProjects\CaeserCipher\CaeserCipher\bin\Debug\net6.0\CaeserCipher.pdb
+C:\Users\viliu\RiderProjects\CaeserCipher\CaeserCipher\obj\Debug\net6.0\CaeserCipher.dll
+C:\Users\viliu\RiderProjects\CaeserCipher\CaeserCipher\obj\Debug\net6.0\ref\CaeserCipher.dll
+C:\Users\viliu\RiderProjects\CaeserCipher\CaeserCipher\obj\Debug\net6.0\CaeserCipher.pdb
+C:\Users\viliu\RiderProjects\CaeserCipher\CaeserCipher\obj\Debug\net6.0\CaeserCipher.genruntimeconfig.cache
